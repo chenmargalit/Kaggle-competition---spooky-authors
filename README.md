@@ -1,1 +1,1 @@
-Kaggle Spooky authors competition. Two models testing two different solutions. Some tweaks may be neccessary to generate the file the way Kaggle expects
+Kaggle [Spooky authors competition](https://www.kaggle.com/c/spooky-author-identification). Two models testing two different solutions. Some tweaks may be neccessary to generate the file the way Kaggle expects
